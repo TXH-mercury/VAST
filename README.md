@@ -1,4 +1,7 @@
 # VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset
+
+<div align=center><img src=img/radar_compare_alldata_vast.png/ width="75%" height="75%"></div>
+
 This is the official repository of VAST which will provide code, model checkpoint and dataset. They will be released after paper is accepted.
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vast-a-vision-audio-subtitle-text-omni/video-retrieval-on-activitynet)](https://paperswithcode.com/sota/video-retrieval-on-activitynet?p=vast-a-vision-audio-subtitle-text-omni)
@@ -21,5 +24,3 @@ This is the official repository of VAST which will provide code, model checkpoin
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vast-a-vision-audio-subtitle-text-omni/video-captioning-on-youcook2)](https://paperswithcode.com/sota/video-captioning-on-youcook2?p=vast-a-vision-audio-subtitle-text-omni)
 
 <div align=center><img src=img/VAST-model.jpg/></div>
-
-<!-- <div align=center><img src=img/radar_compare_alldata_vast.png/ width="50%" height="50%"></div> -->
