@@ -1,3 +1,6 @@
+# VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset
+This is the official repository of VAST which will provide code, model checkpoint and dataset. They will be released after paper is accepted.
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vast-a-vision-audio-subtitle-text-omni/video-retrieval-on-activitynet)](https://paperswithcode.com/sota/video-retrieval-on-activitynet?p=vast-a-vision-audio-subtitle-text-omni)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vast-a-vision-audio-subtitle-text-omni/text-to-audio-retrieval-on-audiocaps)](https://paperswithcode.com/sota/text-to-audio-retrieval-on-audiocaps?p=vast-a-vision-audio-subtitle-text-omni)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vast-a-vision-audio-subtitle-text-omni/audio-captioning-on-audiocaps)](https://paperswithcode.com/sota/audio-captioning-on-audiocaps?p=vast-a-vision-audio-subtitle-text-omni)
@@ -17,5 +20,6 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vast-a-vision-audio-subtitle-text-omni/video-retrieval-on-youcook2)](https://paperswithcode.com/sota/video-retrieval-on-youcook2?p=vast-a-vision-audio-subtitle-text-omni)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vast-a-vision-audio-subtitle-text-omni/video-captioning-on-youcook2)](https://paperswithcode.com/sota/video-captioning-on-youcook2?p=vast-a-vision-audio-subtitle-text-omni)
 
-# VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset
-This is the official repository of COSA which will provide code, model checkpoint and dataset. They will be released after paper is accepted.
+<div align=center><img src=img/VAST-model.jpg/></div>
+
+<!-- <div align=center><img src=img/radar_compare_alldata_vast.png/ width="50%" height="50%"></div> -->
