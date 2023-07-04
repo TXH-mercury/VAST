@@ -24,3 +24,19 @@ This is the official repository of VAST which will provide code, model checkpoin
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/vast-a-vision-audio-subtitle-text-omni/video-captioning-on-youcook2)](https://paperswithcode.com/sota/video-captioning-on-youcook2?p=vast-a-vision-audio-subtitle-text-omni)
 
 <div align=center><img src=img/VAST-model.jpg/></div>
+
+
+## Citation
+
+If you find this code useful for your research, please consider citing:
+
+
+```
+@article{chen2023vast,
+  title={VAST: A Vision-Audio-Subtitle-Text Omni-Modality Foundation Model and Dataset},
+  author={Chen, Sihan and Li, Handong and Wang, Qunbo and Zhao, Zijia and Sun, Mingzhen and Zhu, Xinxin and Liu, Jing},
+  journal={arXiv preprint arXiv:2305.18500},
+  year={2023}
+}
+```
+
